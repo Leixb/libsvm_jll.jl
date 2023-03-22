@@ -1,0 +1,9 @@
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "d45c97e47ab37261f8e0993a7ad7a08401fa4ffb"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "81c45a2c038e79292a467e3092c6eb81bed5be22d85ab7675ecfcc583a6a88be"
+    url = "https://github.com/Leixb/libsvm_jll.jl/releases/download/libsvm-v3.31.0+0/libsvm.v3.31.0.x86_64-linux-gnu.tar.gz"
