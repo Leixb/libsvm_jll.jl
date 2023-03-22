@@ -17,6 +17,7 @@ The tarballs for `libsvm_jll.jl` have been built from these sources:
 
 `libsvm_jll.jl` is available for the following platforms:
 
+* `Linux aarch64 {libc=glibc}` (`aarch64-linux-gnu`)
 * `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 
 ## Dependencies
