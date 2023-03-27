@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libsvm_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/Leixb/libsvm.git (revision: `50addd496ef10145ed85ac4f5bcef30af9d88ba9`)
+* git repository: https://github.com/Leixb/libsvm.git (revision: `f182f09609c96fe236ba6e5b47a915310dfd6d35`)
 * files in directory, relative to originating `build_tarballs.jl`: `./bundled`
 
 ## Platforms
