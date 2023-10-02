@@ -1,18 +1,18 @@
 [[libsvm]]
 arch = "aarch64"
-git-tree-sha1 = "fb1f6ed5ebed4d6ce3a4b149986b6ce4ed6bd671"
+git-tree-sha1 = "000e46b35116dc9150c675d00965b33a3e6d55f6"
 libc = "glibc"
 os = "linux"
 
     [[libsvm.download]]
-    sha256 = "db7970c4ea943990c6f8f93781f530e341a17a50baffff0d4c5902bd03166d35"
-    url = "https://github.com/Leixb/libsvm_jll.jl/releases/download/libsvm-v3.31.4+0/libsvm.v3.31.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "a6654cc830b20cd0b4d19523f73d987838300961e053f1212c468356e4e9dd24"
+    url = "https://github.com/Leixb/libsvm_jll.jl/releases/download/libsvm-v3.31.6+0/libsvm.v3.31.6.aarch64-linux-gnu.tar.gz"
 [[libsvm]]
 arch = "x86_64"
-git-tree-sha1 = "6fffaf50929b5738ffbc34b8be1718c9c72a2641"
+git-tree-sha1 = "843b66ad65136da773874813dc47533abe4c2152"
 libc = "glibc"
 os = "linux"
 
     [[libsvm.download]]
-    sha256 = "204195a8e17d4b1c74aeaa403943adda245a64e07de3754171b267e422ba21ae"
-    url = "https://github.com/Leixb/libsvm_jll.jl/releases/download/libsvm-v3.31.4+0/libsvm.v3.31.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "5f467c5157992b95dbafeb89ba4d03e58938a085526ba3032bbee00140a57245"
+    url = "https://github.com/Leixb/libsvm_jll.jl/releases/download/libsvm-v3.31.6+0/libsvm.v3.31.6.x86_64-linux-gnu.tar.gz"
